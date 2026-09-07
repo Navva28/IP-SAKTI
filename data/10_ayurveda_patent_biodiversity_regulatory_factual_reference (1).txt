@@ -1,0 +1,88 @@
+AYURVEDA, PATENTS, TRADITIONAL KNOWLEDGE AND PRODUCT REGULATION —
+FACTUAL REFERENCE
+
+Sources / Authorities: Intellectual Property India; Central Drugs
+Standard Control Organisation; Food Safety and Standards Authority of
+India; National Biodiversity Authority / India Code; World Intellectual
+Property Organization; Traditional Knowledge Digital Library.
+ source_url = https://tkdl.res.in/
+1.  AYURVEDA AND INTELLECTUAL PROPERTY Ayurvedic knowledge can intersect
+    with patents and other intellectual-property rights. Patent
+    protection applies to patentable inventions under the Patents Act,
+    1970 and does not automatically protect traditional knowledge or
+    naturally occurring substances.
+
+2.  TRADITIONAL KNOWLEDGE Section 3(p) excludes an invention that in
+    effect is traditional knowledge or an aggregation or duplication of
+    known properties of traditionally known components.
+
+TKDL documents traditional knowledge from Ayurveda, Siddha, Unani, Sowa
+Rigpa and Yoga.
+
+3.  KNOWN SUBSTANCES Section 3(d) addresses new forms and new uses of
+    known substances and excludes the subject matter specified by the
+    statutory provision.
+
+4.  ADMIXTURES Section 3(e) addresses substances obtained by mere
+    admixture when the result is only aggregation of the properties of
+    the components.
+
+5.  MEDICAL TREATMENT Section 3(i) excludes specified medicinal,
+    surgical, curative, prophylactic, diagnostic, therapeutic and other
+    treatment processes for humans and specified similar treatment of
+    animals.
+
+6.  PLANTS AND ANIMALS Section 3(j) excludes plants and animals in whole
+    or part, other than microorganisms, subject to the exact statutory
+    wording, and addresses essentially biological processes for
+    production or propagation.
+
+7.  BIOLOGICAL MATERIAL The Patents Act contains specification
+    requirements concerning biological material, including applicable
+    deposit provisions and disclosure of source and geographical origin.
+
+8.  BIODIVERSITY The Biological Diversity Act, 2002, as amended,
+    regulates specified access to biological resources and associated
+    requirements. The 2023 amendment came into force on 1 April 2024.
+
+9.  ASU MEDICINES Ayurvedic, Siddha and Unani drugs are regulated under
+    the Drugs and Cosmetics Act and Rules, including manufacturing,
+    testing, labelling and GMP requirements.
+
+10. AYURVEDA AAHARA Ayurveda Aahara is regulated as a food category
+    under the Food Safety and Standards (Ayurveda Aahara)
+    Regulations, 2022. The regulations define the category by reference
+    to specified Ayurvedic recipes, ingredients and processes and
+    contain exclusions distinguishing it from Ayurvedic drugs and other
+    products.
+
+11. PRODUCT CLASSIFICATION Product classification depends on statutory
+    definitions and facts such as ingredients, intended use, claims,
+    dosage or food form and applicable exclusions.
+
+12. INTERNATIONAL PROTECTION The PCT provides an international filing
+    route but does not grant a worldwide patent. The usual priority
+    period is 12 months, and a common national-phase deadline is 30
+    months from the priority date.
+
+13. WIPO GENETIC-RESOURCE TREATY WIPO adopted the Treaty on Intellectual
+    Property, Genetic Resources and Associated Traditional Knowledge on
+    24 May 2024. It includes disclosure provisions concerning the
+    country of origin or source of genetic resources and associated
+    traditional knowledge in relevant patent applications.
+
+14. OFFICIAL AUTHORITIES Relevant official authorities include
+    Intellectual Property India for Indian patent law, CDSCO for drug
+    regulation, FSSAI for food regulation, the National Biodiversity
+    Authority and India Code for biodiversity law, WIPO for
+    international patent and treaty systems, and TKDL / Government of
+    India sources for traditional-knowledge documentation.
+
+15. CURRENT STATUS Laws, regulations, amendments, notifications and
+    administrative guidance can change. Current official sources remain
+    authoritative.
+
+Source note: This document contains factual legal and regulatory
+reference information only. It intentionally contains no AI prompts, RAG
+instructions, query-routing rules, software architecture or coding
+instructions.

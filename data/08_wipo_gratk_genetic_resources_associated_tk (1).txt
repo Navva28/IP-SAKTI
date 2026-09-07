@@ -1,0 +1,51 @@
+WIPO TREATY ON INTELLECTUAL PROPERTY, GENETIC RESOURCES AND ASSOCIATED
+TRADITIONAL KNOWLEDGE
+
+Source / Authority: World Intellectual Property Organization (WIPO).
+ source_url = https://www.wipo.int/
+1.  TREATY The WIPO Treaty on Intellectual Property, Genetic Resources
+    and Associated Traditional Knowledge was adopted on 24 May 2024.
+
+2.  SUBJECT The treaty addresses intellectual property systems in
+    relation to genetic resources and associated traditional knowledge.
+
+3.  DISCLOSURE A central feature is a disclosure requirement concerning
+    the country of origin or source of genetic resources when an
+    invention is based on genetic resources.
+
+Where an invention is based on associated traditional knowledge, the
+treaty provides for disclosure concerning the source of that associated
+traditional knowledge under the treaty framework.
+
+4.  PURPOSE The disclosure system is intended to improve transparency
+    concerning the relationship between patent applications and genetic
+    resources or associated traditional knowledge.
+
+5.  ENTRY INTO FORCE Adoption does not automatically make the treaty
+    binding on every country. The treaty enters into force three months
+    after the required number of ratifications or accessions specified
+    in the treaty is reached.
+
+6.  NATIONAL IMPLEMENTATION Practical effect depends on entry into force
+    and national implementation. National patent and biodiversity laws
+    remain relevant.
+
+7.  INDIA The treaty should not automatically be treated as a
+    universally binding Indian filing requirement without checking
+    treaty status and Indian implementation. Current Indian patent and
+    biodiversity law remains relevant.
+
+8.  GENETIC RESOURCES Genetic resources can be relevant to inventions
+    involving biological material, plants, microorganisms and other
+    biological sources.
+
+9.  ASSOCIATED TRADITIONAL KNOWLEDGE The treaty addresses disclosure of
+    source or origin information in relevant cases. It does not itself
+    create a worldwide patent.
+
+10. PATENT SYSTEM The treaty does not replace national patent
+    examination systems or grant a universal patent.
+
+Source note: This is a factual summary of WIPO’s official description of
+the 2024 treaty. Current treaty status and national implementation
+should be checked when applying it to a specific jurisdiction.

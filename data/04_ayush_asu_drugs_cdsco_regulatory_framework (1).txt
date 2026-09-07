@@ -1,0 +1,48 @@
+AYURVEDIC, SIDDHA AND UNANI DRUGS — REGULATORY FRAMEWORK
+
+Source / Authority: Central Drugs Standard Control Organisation (CDSCO),
+Government of India. Primary framework: Drugs and Cosmetics Act, 1940
+and Drugs and Cosmetics Rules, 1945.
+source_url = https://cdsco.gov.in/
+1.  SCOPE The regulatory framework covers Ayurvedic, Siddha and Unani
+    (ASU) drugs under the Drugs and Cosmetics Act and Rules, together
+    with applicable schedules, notifications and amendments.
+
+2.  ASU DRUGS The framework covers medicines used in Ayurvedic, Siddha
+    and Unani systems, including classical medicines and proprietary
+    medicines as defined by the applicable law.
+
+3.  MANUFACTURE Part XVI of the Drugs and Cosmetics Rules contains
+    provisions concerning manufacture of ASU drugs, including
+    requirements relating to premises, equipment, personnel, records,
+    quality control and other applicable matters.
+
+4.  LABELLING AND PACKING Part XVII contains provisions concerning
+    labelling and packing of ASU drugs, including provisions relevant to
+    alcoholic preparations and other specified products.
+
+5.  ANALYSTS AND INSPECTORS Part XVIII contains provisions concerning
+    government analysts and inspectors for ASU drugs.
+
+6.  PATENT OR PROPRIETARY MEDICINE The Drugs and Cosmetics Rules contain
+    definitions for Ayurvedic, Siddha and Unani patent or proprietary
+    medicines. This regulatory concept is separate from patentability
+    under patent law.
+
+7.  CLASSICAL MEDICINES Classical medicines are associated with
+    formulations described in authoritative books of the relevant
+    traditional system, subject to the precise statutory definition.
+
+8.  QUALITY AND SAFETY ASU drug regulation includes requirements
+    intended to control medicine quality and safety, including
+    applicable manufacturing, testing and labelling requirements.
+
+9.  SCHEDULE T Schedule T contains Good Manufacturing Practices
+    requirements for Ayurvedic, Siddha and Unani medicines.
+
+10. PATENT LAW DISTINCTION Regulatory classification or approval of an
+    ASU medicine does not itself establish patentability. Patentability
+    is separately assessed under the Patents Act, 1970.
+
+Source note: This document summarizes official CDSCO material. Current
+rules and amendments remain authoritative.

@@ -1,0 +1,35 @@
+{
+  "name": "ip-sakti-sahayak",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "node node_modules/next/dist/bin/next dev",
+    "build": "node node_modules/next/dist/bin/next build",
+    "start": "node node_modules/next/dist/bin/next start",
+    "lint": "next lint",
+    "ingest": "node node_modules/tsx/dist/cli.mjs scripts/ingest.ts"
+  },
+  "dependencies": {
+    "@datastax/astra-db-ts": "^1.5.0",
+    "@langchain/community": "^0.3.10",
+    "clsx": "^2.1.1",
+    "dotenv": "^16.4.5",
+    "langchain": "^0.3.5",
+    "lucide-react": "^0.453.0",
+    "next": "^14.2.15",
+    "openai": "^4.67.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "tailwind-merge": "^2.5.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.16.11",
+    "@types/react": "^18.3.11",
+    "@types/react-dom": "^18.3.1",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.14",
+    "tsx": "^4.19.1",
+    "typescript": "^5.6.3"
+  }
+}

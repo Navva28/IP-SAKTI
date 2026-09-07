@@ -1,0 +1,55 @@
+PATENT COOPERATION TREATY (PCT) — INTERNATIONAL PATENT FILING ROUTE
+
+Source / Authority: World Intellectual Property Organization (WIPO).
+ source_url = https://www.wipo.int/
+1.  PURPOSE The PCT provides a procedure for filing a single
+    international patent application that can serve as a filing route in
+    multiple PCT contracting states.
+
+2.  NO WORLDWIDE PATENT A PCT application does not create a worldwide
+    patent. National or regional patent offices ultimately determine
+    whether protection is granted under their laws.
+
+3.  PRIORITY PERIOD The usual period for claiming priority from an
+    earlier application is 12 months, subject to the applicable PCT and
+    national requirements.
+
+4.  INTERNATIONAL APPLICATION A PCT application contains information
+    such as applicant details, title, description, claims, drawings
+    where required, abstract and priority information where claimed.
+
+5.  INTERNATIONAL SEARCH A PCT application is subject to an
+    international search by an International Searching Authority. The
+    search identifies relevant prior-art documents.
+
+6.  INTERNATIONAL PUBLICATION PCT applications are generally published
+    internationally according to the PCT publication system.
+
+7.  INTERNATIONAL PRELIMINARY EXAMINATION The PCT system provides
+    optional international preliminary examination procedures. These
+    procedures provide information concerning patentability but do not
+    themselves grant a patent.
+
+8.  NATIONAL PHASE After the international phase, the applicant must
+    enter the national or regional phase in the countries or regions
+    where protection is sought.
+
+9.  NATIONAL-PHASE TIMING A common PCT national-phase time limit is 30
+    months from the priority date, although applicable requirements can
+    vary by country and situation.
+
+10. INDIA India is a PCT contracting state. Entry into the Indian
+    national phase requires compliance with Indian patent law, rules and
+    applicable PCT national-phase requirements.
+
+11. BENEFIT The PCT provides a coordinated international filing and
+    search procedure and can postpone multiple national filings.
+
+12. AYURVEDA An Ayurveda-related invention seeking protection in
+    multiple countries may use the PCT route when the relevant
+    requirements are satisfied. Patentability and traditional-knowledge
+    or biodiversity requirements remain jurisdiction-specific.
+
+Source note: This document summarizes the official WIPO PCT system.
+Current national-phase requirements should be checked for each target
+jurisdiction.

@@ -1,0 +1,57 @@
+AYURVEDIC, SIDDHA AND UNANI DRUGS — DOSAGE FORMS, TESTING, GMP AND
+LABELLING
+
+Source / Authority: Central Drugs Standard Control Organisation (CDSCO),
+Government of India. Primary framework: Drugs and Cosmetics Rules, 1945
+and official ASU testing and GMP material.
+source_url = https://cdsco.gov.in/
+1.  DOSAGE FORMS Official ASU testing and regulatory materials recognize
+    dosage forms and categories including Asava and Arista, Avaleha,
+    Guggulu preparations, Ghrita, Taila, Vati or Gutika, Bhasma, Lauha,
+    Ghana Sattva, syrups, tablets, capsules, ointments, Kshar Sutra,
+    single-drug preparations and other specified traditional dosage
+    forms.
+
+Exact requirements depend on the product and applicable legal category.
+
+2.  TESTING Testing requirements vary according to dosage form,
+    ingredients and applicable category. Official materials provide
+    product-specific analytical parameters.
+
+3.  QUALITY PARAMETERS Testing can address identity, purity, quality,
+    physical characteristics, chemical parameters, microbial quality and
+    other requirements specified for the product.
+
+4.  GOOD MANUFACTURING PRACTICES Schedule T contains GMP requirements
+    for ASU medicines, covering matters such as premises, sanitation,
+    equipment, storage, raw materials, manufacturing controls, quality
+    control, documentation and personnel.
+
+5.  RAW MATERIALS Raw materials are subject to applicable quality
+    requirements. Identity and quality of ingredients are important to
+    finished-product quality.
+
+6.  FINISHED PRODUCTS Finished products are subject to quality-control
+    requirements appropriate to their category and dosage form.
+
+7.  LABELLING ASU drug labelling is regulated under the Drugs and
+    Cosmetics Rules. Requirements vary according to product category.
+
+8.  ALCOHOL-CONTAINING PREPARATIONS The rules contain provisions
+    concerning labelling and packing of relevant alcoholic ASU
+    preparations such as Asava and Arista products.
+
+9.  RECORDS Manufacturing and quality systems require records supporting
+    identification and control of batches and materials as specified by
+    applicable rules.
+
+10. FOOD DISTINCTION Ayurveda Aahara is regulated separately as a food
+    category under FSSAI. ASU drugs are regulated under the Drugs and
+    Cosmetics framework.
+
+11. PATENTABILITY Dosage form, GMP compliance or regulatory testing does
+    not by itself create patent rights. Patentability depends on the
+    claimed invention and the Patents Act.
+
+Source note: This is a factual summary of official CDSCO ASU testing,
+GMP and labelling material.

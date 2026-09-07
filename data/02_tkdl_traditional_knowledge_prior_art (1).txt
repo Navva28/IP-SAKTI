@@ -1,0 +1,51 @@
+TRADITIONAL KNOWLEDGE DIGITAL LIBRARY (TKDL)
+
+Source / Authority: Traditional Knowledge Digital Library (TKDL), CSIR
+and Ministry of Ayush, Government of India.
+ source_url= https://tkdl.res.in/
+1.  PURPOSE TKDL documents Indian traditional knowledge associated with
+    systems including Ayurveda, Siddha, Unani, Sowa Rigpa and Yoga.
+
+2.  DOCUMENTATION Traditional medicinal knowledge from authoritative
+    traditional texts is transcribed and structured so that it can be
+    used in patent-search and examination contexts.
+
+3.  TRADITIONAL KNOWLEDGE RESOURCE CLASSIFICATION TKDL uses the
+    Traditional Knowledge Resource Classification (TKRC) to organize
+    traditional knowledge.
+
+4.  SYSTEMS COVERED The documented systems include Ayurveda, Siddha,
+    Unani, Sowa Rigpa and Yoga.
+
+5.  DATABASE SIZE The official TKDL About material reports more than
+    4.54 lakh formulations and practices. Database figures can change as
+    documentation is updated.
+
+6.  SOURCE LITERATURE TKDL documentation is based on classical and
+    authoritative literature. Depending on the source, documented
+    material can include ingredients, combinations, preparation methods,
+    uses and other characteristics.
+
+7.  PATENT SIGNIFICANCE Documented traditional knowledge can be relevant
+    prior-art information. Section 3(p) of the Patents Act specifically
+    excludes inventions that in effect are traditional knowledge or an
+    aggregation or duplication of known properties of traditionally
+    known components.
+
+8.  ACCESS TKDL is not an unrestricted public search engine for all of
+    its contents. Access and permitted use are governed by the framework
+    established by the competent authorities.
+
+9.  AYURVEDIC KNOWLEDGE Classical Ayurvedic literature can describe
+    medicinal plants, minerals and other substances, single-drug uses,
+    compound formulations, preparation methods, dosage forms,
+    therapeutic uses and combinations.
+
+10. DEFENSIVE DOCUMENTATION TKDL provides structured documentation that
+    assists patent offices in identifying traditional knowledge during
+    search and examination. Its role is documentation and defensive
+    protection of traditional knowledge.
+
+Source note: This document summarizes official TKDL information. Exact
+current database counts and access conditions should be checked against
+current official TKDL material.
